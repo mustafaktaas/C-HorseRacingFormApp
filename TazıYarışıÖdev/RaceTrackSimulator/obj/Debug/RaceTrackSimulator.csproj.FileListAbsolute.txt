@@ -1,0 +1,30 @@
+D:\Visual Studio\Örnek\RaceTrackSimulator-master\RaceTrackSimulator\bin\Debug\RaceTrackSimulator.exe
+D:\Visual Studio\Örnek\RaceTrackSimulator-master\RaceTrackSimulator\bin\Debug\RaceTrackSimulator.pdb
+D:\Visual Studio\Örnek\RaceTrackSimulator-master\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.csprojAssemblyReference.cache
+D:\Visual Studio\Örnek\RaceTrackSimulator-master\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.Form1.resources
+D:\Visual Studio\Örnek\RaceTrackSimulator-master\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.Properties.Resources.resources
+D:\Visual Studio\Örnek\RaceTrackSimulator-master\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.csproj.GenerateResource.cache
+D:\Visual Studio\Örnek\RaceTrackSimulator-master\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Örnek\RaceTrackSimulator-master\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.exe
+D:\Visual Studio\Örnek\RaceTrackSimulator-master\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.pdb
+D:\Visual Studio\Örnek\RaceTrackSimulator-master\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.Form2.resources
+C:\Users\Mustafa-PC\Desktop\RaceTrackSimulator\bin\Debug\RaceTrackSimulator.exe
+C:\Users\Mustafa-PC\Desktop\RaceTrackSimulator\bin\Debug\RaceTrackSimulator.pdb
+C:\Users\Mustafa-PC\Desktop\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.csprojAssemblyReference.cache
+C:\Users\Mustafa-PC\Desktop\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.Form1.resources
+C:\Users\Mustafa-PC\Desktop\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.Form2.resources
+C:\Users\Mustafa-PC\Desktop\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.Properties.Resources.resources
+C:\Users\Mustafa-PC\Desktop\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.csproj.GenerateResource.cache
+C:\Users\Mustafa-PC\Desktop\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa-PC\Desktop\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.exe
+C:\Users\Mustafa-PC\Desktop\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.pdb
+D:\Ders\1. Sınf   2. Dönem\Algoritma\Tazı Yarışı\taziyarisiodevrar\TazıYarışıÖdev\RaceTrackSimulator\bin\Debug\RaceTrackSimulator.exe
+D:\Ders\1. Sınf   2. Dönem\Algoritma\Tazı Yarışı\taziyarisiodevrar\TazıYarışıÖdev\RaceTrackSimulator\bin\Debug\RaceTrackSimulator.pdb
+D:\Ders\1. Sınf   2. Dönem\Algoritma\Tazı Yarışı\taziyarisiodevrar\TazıYarışıÖdev\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.csprojAssemblyReference.cache
+D:\Ders\1. Sınf   2. Dönem\Algoritma\Tazı Yarışı\taziyarisiodevrar\TazıYarışıÖdev\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.Form1.resources
+D:\Ders\1. Sınf   2. Dönem\Algoritma\Tazı Yarışı\taziyarisiodevrar\TazıYarışıÖdev\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.Form2.resources
+D:\Ders\1. Sınf   2. Dönem\Algoritma\Tazı Yarışı\taziyarisiodevrar\TazıYarışıÖdev\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.Properties.Resources.resources
+D:\Ders\1. Sınf   2. Dönem\Algoritma\Tazı Yarışı\taziyarisiodevrar\TazıYarışıÖdev\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.csproj.GenerateResource.cache
+D:\Ders\1. Sınf   2. Dönem\Algoritma\Tazı Yarışı\taziyarisiodevrar\TazıYarışıÖdev\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.csproj.CoreCompileInputs.cache
+D:\Ders\1. Sınf   2. Dönem\Algoritma\Tazı Yarışı\taziyarisiodevrar\TazıYarışıÖdev\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.exe
+D:\Ders\1. Sınf   2. Dönem\Algoritma\Tazı Yarışı\taziyarisiodevrar\TazıYarışıÖdev\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.pdb
